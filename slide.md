@@ -5,7 +5,7 @@ class: invert
 
 # ![](slideAssets%2Fspotify-icon.svg) Spotify
 
-top 1000 songs 2023
+30000 songs bis 2020
 
 ---
 
