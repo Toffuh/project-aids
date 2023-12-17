@@ -1,33 +1,16 @@
 ---
-theme: gaia
-_class: lead
-paginate: true
-backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+theme: uncover
+class: invert
 ---
 
-![bg left:40% 80%](https://marp.app/assets/marp.svg)
+# ![](slideAssets%2Fspotify-icon.svg) Spotify
 
-# **Marp**
-
-Markdown Presentatioasd
-
-https://marp.app/
+top 1000 songs 2023
 
 ---
 
-# How to write slides
+## Data structure
 
-Split pages by horizontal ruler (`---`). It's very simple! :satisfied:
+//todo
 
-```
-# Slide 1
 
-foobar
-
----
-
-# Slide 2
-
-foobar
-```
