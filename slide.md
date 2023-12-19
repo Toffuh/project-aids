@@ -117,3 +117,10 @@ popular songs only
 ## Music
 
 ![width:1200](slideAssets/music.png)
+
+---
+
+## Random shit
+Firstletter
+
+![width:700](slideAssets/name.png)
