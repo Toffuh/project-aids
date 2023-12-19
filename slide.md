@@ -116,7 +116,8 @@ popular songs only
 
 ## Music
 
-![width:1200](slideAssets/music.png)
+![width:1000](slideAssets/music-1.png)
+![width:1000](slideAssets/music-2.png)
 
 ---
 
