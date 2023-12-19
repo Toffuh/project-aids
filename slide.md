@@ -39,7 +39,7 @@ algorithm and is based, in the most part, on the total number of plays the track
 ##### Interesting for AI
 
 - energy
-- loudness
+- loudness (dB)
 - danceability
 - speechiness
 - acousticness
@@ -49,7 +49,11 @@ algorithm and is based, in the most part, on the total number of plays the track
 
 --- 
 
-## Looking at data
+### Artificial Intelligence (AI)
+Later on we want to input this data to predict how popular a new song will be.
+
+---
+## Looking at the data
 
 ---
 
