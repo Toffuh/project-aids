@@ -50,9 +50,11 @@ algorithm and is based, in the most part, on the total number of plays the track
 --- 
 
 ### Artificial Intelligence (AI)
+
 Later on we want to input this data to predict how popular a new song will be.
 
 ---
+
 ## Looking at the data
 
 ---
@@ -126,6 +128,15 @@ popular songs only
 ---
 
 ## Random shit
-Firstletter
+
+---
+
+### Firstletter
 
 ![width:700](slideAssets/name.png)
+
+---
+
+### Keys
+
+![width:700](slideAssets/keys.png)
