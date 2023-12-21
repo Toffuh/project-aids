@@ -53,6 +53,8 @@ algorithm and is based, in the most part, on the total number of plays the track
 
 Later on we want to input this data to predict how popular a new song will be.
 
+![bg right width:400](slideAssets/roboter.png)
+
 ---
 
 ## Looking at the data
@@ -140,3 +142,16 @@ popular songs only
 ### Keys
 
 ![width:700](slideAssets/keys.png)
+
+---
+
+### Most used word - songs 
+
+![width:700](slideAssets/song-name.png)
+
+---
+
+### Most used word - playlist
+
+![width:700](slideAssets/playlist-name.png)
+
