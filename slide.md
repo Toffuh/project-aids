@@ -127,7 +127,7 @@ popular songs only
 
 ---
 
-## Random shit
+## Random stuff
 
 ---
 
