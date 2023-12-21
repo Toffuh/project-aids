@@ -18,6 +18,7 @@ theme: uncover
 - mode
 - tempo
 - duration_ms
+- loudness (dB)
 
 ---
 
@@ -39,7 +40,6 @@ algorithm and is based, in the most part, on the total number of plays the track
 ##### Interesting for AI
 
 - energy
-- loudness (dB)
 - danceability
 - speechiness
 - acousticness
