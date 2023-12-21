@@ -1,6 +1,5 @@
 ---
 theme: uncover
-class: invert
 ---
 
 # ![](slideAssets%2Fspotify-icon.svg) Spotify Songs
@@ -15,19 +14,32 @@ class: invert
 - date
 - playlist_genre
 - playlist_subgenre
-- energy
 - key
 - mode
 - tempo
 - duration_ms
+- loudness (dB)
+
+---
+
+<style scoped>
+p {
+  font-size: 40px
+}
+</style>
+
+### Popularity?
+
+The popularity of a track is a value between 0 and 100, with 100 being the most popular. The popularity is calculated by
+algorithm and is based, in the most part, on the total number of plays the track has had and how recent those plays are.
 
 ---
 
 ## Data structure
 
-##### interesting for AI
+##### Interesting for AI
 
-- loudness
+- energy
 - danceability
 - speechiness
 - acousticness
@@ -37,36 +49,58 @@ class: invert
 
 --- 
 
-## Locking at Data
+### Artificial Intelligence (AI)
+
+Later on we want to input this data to predict how popular a new song will be.
 
 ---
 
-## popularity - length
+## Looking at the data
+
+---
+
+## Release Dates
+
+years
+
+![width:700](slideAssets/year.png)
+
+---
+
+## Release Dates
+
+months
+
+![width:700](slideAssets/month.png)
+
+---
+
+## Popularity - length
 
 ![width:700](slideAssets/popularity-length.png)
 
 ---
 
-## length
+## Length
 
 ![width:700](slideAssets/duration.png)
 
 ---
 
-## popularity - genre
+## Popularity - genre
 
 ![width:700](slideAssets/popularity-genre.png)
 
 
 ---
 
-## genre
+## Genre
 
 ![width:700](slideAssets/genre.png)
 
 ---
 
-## genre
+## Genre
 
 popular songs only
 
@@ -74,18 +108,35 @@ popular songs only
 
 ---
 
-## tempo - genre
+## Tempo - genre
 
 ![width:1000](slideAssets/tempo-genre.png)
 
 ---
 
-## tempo - genre
+## Tempo - genre
 
 ![width:1000](slideAssets/tempo-genre-edm.png)
 
 ---
 
-## music
+## Music
 
-![width:1200](slideAssets/music.png)
+![width:1000](slideAssets/music-1.png)
+![width:1000](slideAssets/music-2.png)
+
+---
+
+## Random stuff
+
+---
+
+### Firstletter
+
+![width:700](slideAssets/name.png)
+
+---
+
+### Keys
+
+![width:700](slideAssets/keys.png)
