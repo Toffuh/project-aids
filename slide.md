@@ -145,7 +145,7 @@ popular songs only
 
 ---
 
-### Most used word - songs 
+### Most used word - songs
 
 ![width:700](slideAssets/song-name.png)
 
@@ -154,4 +154,22 @@ popular songs only
 ### Most used word - playlist
 
 ![width:700](slideAssets/playlist-name.png)
+
+---
+
+# Christmas
+
+![bg left width:500](slideAssets%2Ftree.jpg)
+
+---
+
+### Christmas words
+
+![width:700](slideAssets/christmas-word.png)
+
+---
+
+# Merry Christmas
+
+![width:500](slideAssets/weihnachten.jpg)
 
